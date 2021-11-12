@@ -1,0 +1,19 @@
+{
+  "name": "@miyaneee/awesomes",
+  "version": "0.1.0",
+  "description": "Awesome collection",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.1.3"
+  },
+  "devDependencies": {
+    "vite": "^2.5.7",
+    "vite-plugin-solid": "^2.0.3"
+  }
+}
