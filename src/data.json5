@@ -1,0 +1,64 @@
+[
+  // Programing languages
+  {
+    name: 'HTML',
+    wholeName: 'Hyper Text Markup Language',
+    createTime: '1990',
+    keywords: ['language', 'front-end'],
+  },
+  {
+    name: 'CSS',
+    wholeName: 'Cascading Style Sheets',
+    keywords: ['language', 'front-end'],
+  },
+  {
+    name: 'JS',
+    wholeName: 'JavaScript',
+    keywords: ['language', 'front-end'],
+  },
+
+  // CSS Preprocessors
+  {
+    name: 'less',
+    github: 'https://github.com/less/less.js',
+    website: 'http://lesscss.org/',
+    keywords: ['front-end', 'css-preprocessor'],
+  },
+
+  // Libraries
+  {
+    name: 'lodash',
+    description: 'A modern JavaScript utility library delivering modularity, performance, & extras.',
+    github: 'https://github.com/lodash/lodash',
+    website: 'https://lodash.com/',
+    keywords: ['front-end', 'js-library'],
+  },
+
+  // Bundlers
+  {
+    name: 'parcel',
+    description: 'The zero configuration build tool for the web. 📦🚀',
+    github: 'https://github.com/parcel-bundler/parcel',
+    website: 'https://parceljs.org/',
+    keywords: ['front-end', 'bundler', 'rust'],
+  },
+
+  // Front-end frameworks
+  {
+    name: 'solid',
+    description: 'A declarative, efficient, and flexible JavaScript library for building user interfaces.',
+    github: 'https://github.com/solidjs/solid',
+    website: 'https://www.solidjs.com/',
+    keywords: ['front-end', 'framework', 'reactive', 'react-like'],
+  },
+
+  // UI libraries
+  {
+    name: 'antd',
+    wholeName: 'ant design',
+    description: 'An enterprise-class UI design language and React UI library',
+    github: 'https://github.com/ant-design/ant-design',
+    website: 'https://ant.design/',
+    keywords: ['front-end', 'ui-library', 'react', 'less'],
+  },
+]
